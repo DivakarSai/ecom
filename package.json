@@ -1,7 +1,7 @@
 {
-  "name": "mern-ecommerce",
+  "name": "subz",
   "version": "1.0.0",
-  "description": "MERN Ecommerce",
+  "description": "Farm Products Selling App",
   "main": "server/index.js",
   "scripts": {
     "clean": "rimraf dist",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohamedsamara/mern-ecommerce.git"
+    "url": "git+https://github.com/DivakarSai/ecom"
   },
   "keywords": [
     "node",
@@ -28,12 +28,9 @@
     "redux-thunk",
     "webpack"
   ],
-  "author": "Mohamed Samara (https://github.com/mohamedsamara)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mohamedsamara/mern-ecommerce/issues"
-  },
-  "homepage": "https://github.com/mohamedsamara/mern-ecommerce#readme",
+  "author": "Divakar",
+  "license": "ISC",
+  "homepage": "https://github.com/DivakarSai/ecom#readme",
   "dependencies": {
     "@fontsource/poppins": "^4.5.9",
     "autosuggest-highlight": "^3.1.1",
